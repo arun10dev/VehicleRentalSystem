@@ -11,8 +11,6 @@ Features
 
 Cars and Daily Rental Prices
 
-Cars and Daily Rental Prices
-
 - Swift: ₹2,500/day
 - Hyundai Creta: ₹3,500/day
 - Toyota Innova: ₹5,000/day
