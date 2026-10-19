@@ -11,14 +11,16 @@ Features
 
 Cars and Daily Rental Prices
 
-Car Brand| Daily Rent
-Swift| ₹2,500
-Hyundai Creta| ₹3,500
-Toyota Innova| ₹5,000
-Fortuner| ₹7,000
-BMW| ₹8,500
-Mercedes-Benz| ₹10,000
-Audi| ₹9,000
+Cars and Daily Rental Prices
+
+- Swift: ₹2,500/day
+- Hyundai Creta: ₹3,500/day
+- Toyota Innova: ₹5,000/day
+- Fortuner: ₹7,000/day
+- BMW: ₹8,500/day
+- Audi: ₹9,000/day
+- Mercedes-Benz: ₹10,000/day
+
 
 Java Concepts Used
 
